@@ -1,84 +1,77 @@
 {
-    "user_id": 0,
-    "name": "Root Node",
-    "children": [
-        {
-            "user_id": 0,
-            "name": "Flossie Hickman",
-            "children": [
-                {
-                    "user_id": 0,
-                    "name": "Violet Arnold",
-                    "children": [
-                        {
-                            "user_id": 0,
-                            "name": "Buckner Carrillo",
-                            "children": [
-                                {
-                                    "user_id": 0,
-                                    "name": "Scott Poole"
-                                },
-                                {
-                                    "user_id": 1,
-                                    "name": "Travis Compton"
-                                },
-                                {
-                                    "user_id": 2,
-                                    "name": "Brenda Galloway"
-                                },
-                                {
-                                    "user_id": 3,
-                                    "name": "Paula Dennis"
-                                },
-                                {
-                                    "user_id": 4,
-                                    "name": "Deleon Golden"
-                                },
-                                {
-                                    "user_id": 5,
-                                    "name": "Russell Mcknight"
-                                },
-                                {
-                                    "user_id": 6,
-                                    "name": "Fischer Serrano"
-                                },
-                                {
-                                    "user_id": 7,
-                                    "name": "Cochran Hart"
-                                },
-                                {
-                                    "user_id": 8,
-                                    "name": "Martin Rollins"
-                                },
-                                {
-                                    "user_id": 9,
-                                    "name": "Karin Lara"
-                                },
-                                {
-                                    "user_id": 10,
-                                    "name": "Nannie Blanchard"
-                                },
-                                {
-                                    "user_id": 11,
-                                    "name": "Sharron Stark"
-                                },
-                                {
-                                    "user_id": 12,
-                                    "name": "Mcgowan Holcomb"
-                                },
-                                {
-                                    "user_id": 13,
-                                    "name": "Snider Barrett"
-                                },
-                                {
-                                    "user_id": 14,
-                                    "name": "Janice Atkins"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        }
-    ]
+	"user_id": 0,
+	"name": "Root Node",
+	"children": [{
+		"user_id": 0,
+		"name": "Flossie Hickman",
+		"children": [{
+			"user_id": 0,
+			"name": "Violet Arnold",
+			"children": [{
+				"user_id": 0,
+				"name": "Buckner Carrillo",
+				"children": [{
+						"user_id": 0,
+						"name": "Scott Poole"
+					},
+					{
+						"user_id": 1,
+						"name": "Travis Compton"
+					},
+					{
+						"user_id": 2,
+						"name": "Brenda Galloway"
+					},
+					{
+						"user_id": 3,
+						"name": "Paula Dennis"
+					},
+					{
+						"user_id": 4,
+						"name": "Deleon Golden"
+					},
+					{
+						"user_id": 5,
+						"name": "Russell Mcknight"
+					},
+					{
+						"user_id": 6,
+						"name": "Fischer Serrano"
+					},
+					{
+						"user_id": 7,
+						"name": "Cochran Hart"
+					},
+					{
+						"user_id": 8,
+						"name": "Martin Rollins"
+					},
+					{
+						"user_id": 9,
+						"name": "Karin Lara"
+					},
+					{
+						"user_id": 10,
+						"name": "Nannie Blanchard"
+					},
+					{
+						"user_id": 11,
+						"name": "Sharron Stark"
+					},
+					{
+						"user_id": 12,
+						"name": "Mcgowan Holcomb"
+					},
+					{
+						"user_id": 13,
+						"name": "Snider Barrett"
+					},
+					{
+						"user_id": 14,
+						"name": "Janice Atkins"
+					}
+				]
+			}]
+		}]
+	}]
 }
