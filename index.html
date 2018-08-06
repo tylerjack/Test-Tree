@@ -4,18 +4,6 @@
 <script src="jquery-3.3.1.min.js"></script>
 <script src="tree.js"></script>
 <body>
-<!--<div ng-app="my-app" ng-controller="MainController">
-        {{ firstName + " " + lastName }}
-</div>
-<script> 
-
-    var app = angular.module("my-app", []);
-    app.controller("MainController", function($scope) {
-        $scope.firstName = "John";
-        $scope.lastName = "Doe";
-    });
-
-</script>-->
 
 <script type="text/ng-template"  id="index.html">
     {{data.name}}
@@ -27,7 +15,7 @@
 </script>
 
 <ul ng-app="myApp" ng-controller="TreeController">
-    <li ng-repeat="child in tree" ng-include="'index.html'"></li>
+    <li ng-repeat="child in tree" ng-include="'https://raw.githubusercontent.com/tylerjack/Test-Tree/master/index.html'"></li>
 </ul>
 </body>
 </html>
